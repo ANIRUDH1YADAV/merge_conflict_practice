@@ -3,4 +3,5 @@ hi! i m anirudh yadav
 
 
 i am a final year student at NSUT DELHI
-i have a strong interest in the AI
+
+if a strong interest in AI and i am a aspiring AI engineer
